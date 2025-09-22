@@ -30,7 +30,7 @@ A complete software solution to communicate with satellites — sending commands
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/dina-gamal-eldin/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/dina-gamal-eldin/)
 - 📧 Email: gdina956@gmail.com
 
 ---
