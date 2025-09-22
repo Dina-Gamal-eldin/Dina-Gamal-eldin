@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎓 I'm a Electronics & Communication Engineer graduate with a passion for space-tech and embedded systems.
-- 🛰️ Currently working on satellite ground control station software.
+- 🛰️ Currently working as Coding Instructor @iSchool
 - 💡 Always exploring new technologies and improving my skills.
 - 🛠️ Languages & Tools:  
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) 
@@ -30,8 +30,8 @@ A complete software solution to communicate with satellites — sending commands
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/dina-gamal-eldin/))
+- 📧 Email: gdina956@gmail.com
 
 ---
 
