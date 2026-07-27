@@ -24,7 +24,7 @@
 ### 🔭 Satellite Ground Control Station  
 A complete software solution to communicate with satellites — sending commands, tracking, and receiving telemetry data.
 
-> 🚀 [View Project Repository](https://github.com/Dina-Gamal-eldin/My-portfolio.git)
+> 🚀 [View Project Repository](https://github.com/Dina-Gamal-eldin/My-portfolio)
 
 ---
 
